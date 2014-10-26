@@ -1,7 +1,8 @@
 duanewilson.github.io
 =====================
-
 Demo pages for opensource components like the Minimal Bootstrap Player project, and the Bootstrap Full Screen Menu.
+
+[Launch Demo] (https://duanewilson.github.io)
 
 Projects:
  
